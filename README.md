@@ -4,13 +4,13 @@
 
 
 ###Compile & Run
-Before compiling this code, make sure you have the following dependencies installed on your computer:
+The following dependencies are needed to compile this code:
 
 * OpenCV
 * PCL
 * CMake
 
-Then do the following:
+Do the following:
 
 		mkdir build
 		cd build
